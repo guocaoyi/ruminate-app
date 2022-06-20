@@ -6,7 +6,7 @@
   "main": "./dist/main/main.js",
   "author": {
     "name": "yalda",
-    "email": ""
+    "email": "guocaoyi@gmail.com"
   },
   "scripts": {
     "electron-rebuild": "node -r ts-node/register ../../.erb/scripts/electron-rebuild.js",
