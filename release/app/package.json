@@ -4,6 +4,10 @@
   "description": "a tool of article reading、collection and analysis",
   "license": "MIT",
   "main": "./dist/main/main.js",
+  "author": {
+    "name": "yalda",
+    "email": ""
+  },
   "scripts": {
     "electron-rebuild": "node -r ts-node/register ../../.erb/scripts/electron-rebuild.js",
     "postinstall": "npm run electron-rebuild && npm run link-modules",

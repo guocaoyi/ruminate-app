@@ -8,13 +8,9 @@ const Hello = () => {
       <div className="Hello">
         <img width="200px" alt="icon" src={icon} />
       </div>
-      <h1>ruminate</h1>
+      <h1>Ruminate</h1>
       <div className="Hello">
-        <a
-          href="https:///"
-          target="_blank"
-          rel="noreferrer"
-        >
+        <a href="https://" target="_blank" rel="noreferrer">
           <button type="button">
             <span role="img" aria-label="books">
               📚
